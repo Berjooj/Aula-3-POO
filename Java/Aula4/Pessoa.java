@@ -1,4 +1,4 @@
-package Model;
+package Aula4;
 
 public class Pessoa {
     private String nome;
