@@ -1,4 +1,4 @@
-package Aula4;
+package Model;
 
 public class Funcionario extends Pessoa {
 
