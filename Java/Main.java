@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import Model.Funcionario;
+import Aula4.Funcionario;
 
 class Main {
     public static void main(String[] args) throws IOException {
